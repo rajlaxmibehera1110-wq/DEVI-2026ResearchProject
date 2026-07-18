@@ -46,7 +46,7 @@
 - Random Forest
 - Support Vector Machine
 - KNN
-- XGBoost (Optional)
+- XGBoost 
 - Hyperparameter Tuning
 
 ## Phase 6: Deep Learning
