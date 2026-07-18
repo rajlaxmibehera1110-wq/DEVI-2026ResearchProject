@@ -16,7 +16,7 @@
 - Check Duplicate Records
 - Statistical Summary
 - Check Unique Values
-- Class Distribution (if classification)
+- Class Distribution
 
 ## Phase 3: Data Preprocessing
 - Handle Missing Values
